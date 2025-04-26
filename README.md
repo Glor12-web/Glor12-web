@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development software engineering 
 - 🌱 I’m currently learning html css JavaScript 
 - 💞️ I’m looking to collaborate on a project that would help me to improve 
-- 📫 How to reach me ehigieglory30@gmail.com or 08137121804
+- 📫 How to reach me ehigieglory30@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: am good at getting along with others
 
