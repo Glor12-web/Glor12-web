@@ -3,7 +3,7 @@
 <h3 align="center">Front-end Developer Skilled in Html | Css | Bootstrap | Javascript</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C3FF&center=true&vCenter=true&width=500&lines=Graphic+Designer;Software+Developer;Frontend+Developer;Javascript+Lover;Developer+in+Training;Startup-driven;Builder+of+Cool+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C3FF&center=true&vCenter=true&width=500&lines=Graphic+Designer;Web+Developer;Frontend+Developer;Javascript+Lover;Developer+in+Training;Startup-driven;Builder+of+Cool+Things" />
 </p>
 
 ---
