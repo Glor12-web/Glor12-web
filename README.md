@@ -1,66 +1,76 @@
+
+<h1 align="center">Hi there 👋, I'm Mira</h1>
+<h3 align="center">Front-end Developer Skilled in Html | Css | Bootstrap | Javascript</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C3FF&center=true&vCenter=true&width=500&lines=Computer+Scientist;Software+Developer;Frontend+Developer;Javascript+Lover;Developer+in+Training;Startup-driven;Builder+of+Cool+Things" />
+</p>
+
+---
+
+### 🚀 About Me
+
+I'm a passionate Fronted Developer and software engineer from Benin City ED, building tools and platforms that empower students, developers, and businesses. Graphic Desiger skilled in corel draw,Photoshop and illustrator, Typist and microsoft Specialist (microsoft word,excel and powerpoint) Aspiring Full Stack Dev(https://github.com/Glor12-web) and  hope to learn more.
+
+---
+
+### 🧠 Currently Building
+
+- ⚙️ A Bank Loan Website---
+
+### 🛠 Tech Toolbox
+
+#### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/Javascipt-3776AB?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTMl-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-007396?style=for-the-badge&logo=bootstrap&logoColor=white" />
+
+</p>
+
+
+#### 🧰 Dev Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitBash-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terminal-black?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mira-techgirl&show_icons=true&theme=radical" alt="mira-techgirl stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jhay-dev&show_icons=true&theme=radical" alt="jhay-dev stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mira-techgirl&theme=radical" alt="mira-techgirl streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhay-dev&theme=radical" alt="jhay-dev streak" />
 </p>
 
 ---
 
 ### ☁️ Fun Facts
 
-- 🔥 Javascript is my love language.
-- 🧠 I’m hoping for the *Scholarship* any Europian country to pursue Software Engineering.
-- 💡 I enjoy Learning with real-world platforms.
-- 🎮 Web dev is my creative escape.
+- 🔥 JavaScript is my love language.
+- 💡 I enjoy blending AI with real-world platforms.
+- 🎮 web dev is my creative escape.
 
 ---
 
 ### 📫 Contact
 
-- 💌 Email: [ehigieglory@gmail.com](mailto:ehigieglory@gmail.com)
+- 💌 Email: [ehigieglory30@gmail.com](mailto:ehigieglory30@gmail.com)
 - 🌍 Portfolio: Coming soon...
-- 🤝 Open to collaborations & freelance Front-end gigs.
+- 🤝 Open to collaborations & freelance Frontend gigs.
 
 ---
 
-> *"Programming is poetry and I write Javascript.
+> *"Programming is poetry and I write javascript.
     If I can, then you can too. Coding saves lives" 
-    — Mira Techgirl*### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mira-techgirl&show_icons=true&theme=radical" alt="mira-techgirl stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mira-techgirl&theme=radical" alt="mira-techgirl streak" />
-</p>
-
----
-
-### ☁️ Fun Facts
-
-- 🔥 Javascript is my love language.
-- 🧠 I’m hoping for the *Scholarship* any Europian country to pursue Software Engineering.
-- 💡 I enjoy Learning with real-world platforms.
-- 🎮 Web dev is my creative escape.
-
----
-
-### 📫 Contact
-
-- 💌 Email: [ehigieglory@gmail.com](mailto:ehigieglory@gmail.com)
-- 🌍 Portfolio: Coming soon...
-- 🤝 Open to collaborations & freelance Front-end gigs.
-
----
-
-> *"Programming is poetry and I write Javascript.
-    If I can, then you can too. Coding saves lives" 
-    — Mira Techgirl*
+    — mira*
 
 <!---
 Glor12-web/Glor12-web is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
