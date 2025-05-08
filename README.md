@@ -40,17 +40,7 @@ I'm a passionate Fronted Developer and software engineer from Benin City ED, bui
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhay-dev&show_icons=true&theme=radical" alt="jhay-dev stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhay-dev&theme=radical" alt="jhay-dev streak" />
-</p>
-
----
 
 ### ☁️ Fun Facts
 
