@@ -26,8 +26,8 @@ I'm a passionate Fronted Developer and software engineer from Benin City ED, bui
   <img src="https://img.shields.io/badge/HTMl-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-007396?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-007396?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-007396?style=for-the-badge&logo=tailwind&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-007396?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-007396?style=for-the-badge&logo=tailwind&logoColor=white" />
 
 </p>
 
