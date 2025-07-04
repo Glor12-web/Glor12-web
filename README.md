@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there 👋, I'm Mira</h1>
-<h3 align="center">Front-end Developer Skilled in Html | Css | Bootstrap | Javascript</h3>
+<h3 align="center">Front-end Developer Skilled in Html | Css | Bootstrap | Javascript |Tailwind |React</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C3FF&center=true&vCenter=true&width=500&lines=Graphic+Designer;Web+Developer;Frontend+Developer;Javascript+Lover;Developer+in+Training;Microsoft-Specialist;Builder+of+Cool+Things" />
@@ -26,6 +26,8 @@ I'm a passionate Fronted Developer and software engineer from Benin City ED, bui
   <img src="https://img.shields.io/badge/HTMl-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-007396?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-007396?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-007396?style=for-the-badge&logo=tailwind&logoColor=white" />
 
 </p>
 
@@ -53,7 +55,7 @@ I'm a passionate Fronted Developer and software engineer from Benin City ED, bui
 ### 📫 Contact
 
 - 💌 Email: [ehigieglory30@gmail.com](mailto:ehigieglory30@gmail.com)
-- 🌍 Portfolio: Coming soon...
+- 🌍 Portfolio:miraportfolioweb.netlify.app
 - 🤝 Open to collaborations & freelance Frontend gigs.
 
 ---
